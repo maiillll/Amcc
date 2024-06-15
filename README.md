@@ -1,0 +1,2 @@
+# Amcc
+Project kosku
