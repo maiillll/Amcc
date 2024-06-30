@@ -23,11 +23,11 @@ Uang Pemasukan (done)
 
 ## Teknologi / Tools Yang Digunakan
 Frontend :
-a. Tailwind => Flowbite
-b. Tailadmin
+1. Tailwind => Flowbite
+2. Tailadmin
 
 Backend :
-a. Laravel
+1. Laravel
 
 ## Cara Run Project
 1. run ``index.html``
