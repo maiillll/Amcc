@@ -10,3 +10,27 @@ Website ini adalah platform online yang menyediakan layanan sewa kos eksklusif d
 Daerah Jogja merupakan salah satu kota dengan tingkat kunjungan mahasiswa yang tinggi setiap tahunnya. Dengan pertumbuhan populasi mahasiswa yang terus meningkat, kebutuhan akan akomodasi seperti kos-kosan juga semakin meningkat. Namun, sering kali calon penyewa kesulitan mendapatkan informasi yang akurat dan terpercaya mengenai kos-kosan yang tersedia di daerah ini.
 
 Melalui website ini, kami ingin mengatasi masalah tersebut dengan menyediakan platform yang menyeluruh dan informatif untuk pencarian kos-kosan di Jogja. Kami bekerja sama dengan pemilik kos untuk memastikan informasi yang disediakan di website kami selalu terbaru dan akurat, sehingga calon penyewa bisa mendapatkan pilihan yang sesuai dengan kebutuhan mereka tanpa kesulitan.
+
+## Fitur
+landing page (done)
+deskripsi page (done)
+Payment (done)
+Order History (done)
+Dashboard pemilik (done)
+Tambah kost (done)
+Kost terjual (done)
+Uang Pemasukan (done)
+
+## Teknologi / Tools Yang Digunakan
+Frontend :
+a. Tailwind => Flowbite
+b. Tailadmin
+
+Backend :
+a. Laravel
+
+## Cara Run Project
+1. run ``index.html``
+2. ``npm instal``
+3. ``npm run dev``
+4. open ``localhost`` for preview
