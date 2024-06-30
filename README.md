@@ -1,2 +1,2 @@
-# Amcc
-Project kosku
+Projek Kosku
+
