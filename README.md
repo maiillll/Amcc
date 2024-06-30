@@ -23,11 +23,11 @@ Melalui website ini, kami ingin mengatasi masalah tersebut dengan menyediakan pl
 
 ## Teknologi / Tools Yang Digunakan
 Frontend :
-1. Tailwind => Flowbite
-2. Tailadmin
+- Tailwind => Flowbite
+- Tailadmin
 
 Backend :
-1. Laravel
+- Laravel
 
 ## Cara Run Project
 1. run ``index.html``
