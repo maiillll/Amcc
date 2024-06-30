@@ -12,14 +12,14 @@ Daerah Jogja merupakan salah satu kota dengan tingkat kunjungan mahasiswa yang t
 Melalui website ini, kami ingin mengatasi masalah tersebut dengan menyediakan platform yang menyeluruh dan informatif untuk pencarian kos-kosan di Jogja. Kami bekerja sama dengan pemilik kos untuk memastikan informasi yang disediakan di website kami selalu terbaru dan akurat, sehingga calon penyewa bisa mendapatkan pilihan yang sesuai dengan kebutuhan mereka tanpa kesulitan.
 
 ## Fitur
-landing page (done)
-deskripsi page (done)
-Payment (done)
-Order History (done)
-Dashboard pemilik (done)
-Tambah kost (done)
-Kost terjual (done)
-Uang Pemasukan (done)
+- landing page (done)
+- deskripsi page (done)
+- Payment (done)
+- Order History (done)
+- Dashboard pemilik (done)
+- Tambah kost (done)
+- Kost terjual (done)
+- Uang Pemasukan (done)
 
 ## Teknologi / Tools Yang Digunakan
 Frontend :
